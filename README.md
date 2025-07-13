@@ -72,7 +72,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern, sca
         <h3 align="center">🎯 GDCRDS - Full-Stack Web Application</h3>
         <div align="center">
           <a href="https://gdcrds.vercel.app/" target="_blank">
-            <img src="https://via.placeholder.com/400x250/1f1f1f/ffffff?text=GDCRDS+Project" width="100%" alt="GDCRDS Project"/>
+            <img src="hhttps://i.pinimg.com/736x/d1/84/02/d18402100dad53c7192141561277a6ca.jpg" width="100%" alt="GDCRDS Project"/>
           </a>
         </div>
         <p align="center">
