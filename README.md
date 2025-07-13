@@ -184,5 +184,5 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern, sca
   
   <br/>
   
-  <img src="https://readme-typing-svg.vercel.app/?lines=Let's+build+something+amazing+together!&center=true&size=20">
+  <img src="https://readme-typing-svg.vercel.app/?lines="Let's+build+something+amazing+together!&center=true&size=20">
 </div> 
