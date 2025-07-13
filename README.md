@@ -177,12 +177,14 @@ I'm a passionate **Full-Stack Developer** with expertise in building modern, sca
 
 ---
 
-<div align="center">  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GEO211&style=flat-square&color=blue" alt="Profile Views"/>
+  
   <br/>
   
   **Thanks for visiting my profile! I'm always open to new opportunities and collaborations.** 🚀
   
   <br/>
   
-  <img src="https://readme-typing-svg.vercel.app/?lines="Let's+build+something+amazing+together!&center=true&size=20">
+  <img src="https://readme-typing-svg.vercel.app/?lines=g+Let's+build+something+amazing+together!&center=true&size=20">
 </div> 
